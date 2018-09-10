@@ -1,0 +1,10 @@
+package Alphabet1;
+
+public class TipCalculator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
